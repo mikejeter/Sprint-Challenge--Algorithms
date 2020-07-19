@@ -2,13 +2,13 @@
 
 ## Exercise I
 
-a)
+a) Linear O(n) the input and space increases n * n * n.
 
 
-b)
+b) Linearithmic O(n log n) The first loop is n the second loop is multiplied by 2 at n.
 
 
-c)
+c) Linear O(n) the input increases and has double the return operation.
 
 ## Exercise II
 
